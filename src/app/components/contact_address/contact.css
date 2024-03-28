@@ -1,0 +1,18 @@
+.contact_address li {
+  display: flex;
+  flex-direction: row;
+  font-size: 0.8rem;
+  padding: 5px;
+  gap: 3px;
+}
+.button{
+  width: 100%;
+  margin:0 auto;
+  opacity: 0.8;
+}
+
+@media (min-width: 570px) {
+  .banner {
+    height: 70vh;
+  }
+}

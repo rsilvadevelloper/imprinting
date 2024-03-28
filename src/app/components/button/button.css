@@ -1,0 +1,21 @@
+button {
+  background: linear-gradient(to right, #333399, #ff00cc);
+  display: block;
+  margin: 0 auto;
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  color: #fff;
+}
+
+.button{
+  width: 100%;
+  margin:0 auto;
+  opacity: 0.8;
+}
+
+@media (min-width: 570px) {
+  .banner {
+    height: 70vh;
+  }
+}
