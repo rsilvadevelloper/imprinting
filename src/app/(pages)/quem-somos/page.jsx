@@ -1,4 +1,4 @@
-import Container from "@/app/components/container_text";
+import Container from "../../components/container_text";
 import Image from "next/image";
 import { Waypoints } from "lucide-react";
 

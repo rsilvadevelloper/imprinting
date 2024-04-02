@@ -1,6 +1,6 @@
-import Banner from "@/app/components/banner_img";
-import Container from "@/app/components/container_text";
-import MiniCard from "@/app/components/mini-card";
+import Banner from "../../components/banner_img"
+import Container from "../../components/container_text"
+import MiniCard from "../../components/mini-card";
 import Image from "next/image";
 import { DollarSignIcon, Group, Rocket, Target } from "lucide-react";
 
