@@ -1,7 +1,7 @@
-import Banner from "@/app/components/banner_img";
-import Button from "@/app/components/button";
-import ContainerText from "@/app/components/container_text";
-import Card from "@/app/components/card";
+import Banner from "../components/banner_img";
+import Button from "../components/button";
+import ContainerText from "../components/container_text";
+import Card from "../components/card";
 import "./index.css"
 import { Cog } from "lucide-react";
 

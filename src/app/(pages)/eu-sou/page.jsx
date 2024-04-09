@@ -1,8 +1,8 @@
-import Banner from "@/app/components/banner_img";
-import Container from "@/app/components/container_text";
-import Card from "@/app/components/card";
+import Banner from "../../components/banner_img"
+import Container from "../../components/container_text"
+import Card from "../../components/card"
 import { DatabaseIcon, Download } from "lucide-react";
-import MiniCard from "@/app/components/mini-card";
+import MiniCard from "../../components/mini-card";
 const EuSou = () => {
   return (
     <>

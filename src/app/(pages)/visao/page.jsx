@@ -1,6 +1,6 @@
-import Container from "@/app/components/container_text";
-import MiniCard from "@/app/components/mini-card";
-import Card from "@/app/components/card";
+import Container from "../../components/container_text";
+import MiniCard from "../../components/mini-card";
+import Card from "../../components/card";
 import { Cog } from "lucide-react";
 
 const QuemSomos = () => {

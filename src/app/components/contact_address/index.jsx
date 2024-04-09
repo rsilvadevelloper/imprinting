@@ -1,7 +1,7 @@
 import "./contact.css";
 import { Mail, Phone } from "lucide-react";
 
-const Contact = () => {
+const FormContact = () => {
   return (
     <ul className="contact_address">
       <li>
@@ -16,4 +16,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default FormContact;

@@ -1,5 +1,5 @@
-import Container from "@/app/components/container_text";
-import FormContact from "@/app/components/form_contato";
+import Container from "../../components/container_text";
+import FormContact from "../../components/contact_address";
 import { Rocket } from "lucide-react";
 
 const Contact = () => {

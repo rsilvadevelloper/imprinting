@@ -1,9 +1,9 @@
-import Container from "@/app/components/container_text";
-import Card from "@/app/components/card";
+import Container from "../../components/container_text";
+import Card from "../../components/card";
 import Image from "next/image";
-import MiniCard from "@/app/components/mini-card";
+import MiniCard from "../../components/mini-card";
 import { Search } from "lucide-react";
-import Accordion from "@/app/components/accordion";
+import Accordion from "../../components/accordion";
 const Metodologia = () => {
   return (
     <>
